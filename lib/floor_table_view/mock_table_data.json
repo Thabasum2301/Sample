@@ -1,0 +1,123 @@
+{
+  "data": [
+    {
+      "name": "C1",
+      "width": 134,
+      "height": 134,
+      "angle": 0,
+      "xaxis": 52,
+      "yaxis": 50,
+      "shape": "round"
+    },
+    {
+      "name": "C2",
+      "width": 134,
+      "height": 134,
+      "angle": 0,
+      "xaxis": 270,
+      "yaxis": 50,
+      "shape": "round"
+
+    },
+    {
+      "name": "C3",
+      "width": 134,
+      "height": 134,
+      "angle": 0,
+      "xaxis": 52,
+      "yaxis": 239,
+      "shape": "round"
+
+    },
+    {
+      "name": "C4",
+      "width": 134,
+      "height": 134,
+      "angle": 0,
+      "xaxis": 270,
+      "yaxis": 239,
+      "shape": "round"
+
+    },
+    {
+      "name": "O1",
+      "width": 218,
+      "height": 67,
+      "angle": 0,
+      "xaxis": 15,
+      "yaxis": 428,
+      "shape": "round"
+
+    },
+    {
+      "name": "R1",
+      "width": 82,
+      "height": 82,
+      "angle": 0,
+      "xaxis": 341,
+      "yaxis": 421,
+      "shape": "rectangle"
+
+    },
+    {
+      "name": "D1",
+      "width": 96,
+      "height": 96,
+      "angle": 0,
+      "xaxis": 632,
+      "yaxis": 75,
+      "shape": "diamond"
+
+    },
+    {
+      "name": "D2",
+      "width": 120,
+      "height": 120,
+      "angle": 0,
+      "xaxis": 516,
+      "yaxis": 180,
+      "shape": "diamond"
+
+    },
+    {
+      "name": "D3",
+      "width": 120,
+      "height": 120,
+      "angle": 0,
+      "xaxis": 751,
+      "yaxis": 180,
+      "shape": "diamond"
+
+    },
+    {
+      "name": "R1",
+      "width": 218,
+      "height": 98,
+      "angle": 30,
+      "xaxis": 638,
+      "yaxis": 306,
+      "shape": "rectangle"
+
+    },
+    {
+      "name": "R2",
+      "width": 170,
+      "height": 58,
+      "angle": 197,
+      "xaxis": 544,
+      "yaxis": 462,
+      "shape": "rectangle"
+
+    },
+    {
+      "name": "S1",
+      "width": 10,
+      "height": 500,
+      "angle": 90,
+      "xaxis": 516,
+      "yaxis": 500,
+      "shape": "rectangle"
+
+    }
+  ]
+}
